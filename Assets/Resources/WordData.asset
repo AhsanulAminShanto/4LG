@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: WordData
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: GAME
+  - answer: COME
+  - answer: BALL
+  - answer: DUCK
+  - answer: LOVE
+  - answer: CAKE
+  - answer: SHIP
+  - answer: TREE
+  - answer: ROCK
+  - answer: BLUE
+  - answer: GOLD
+  - answer: BIRD
+  - answer: WOLF
+  - answer: FISH
+  - answer: MOON
+  - answer: FIRE
+  - answer: WIND
+  - answer: LION
+  - answer: STAR
+  - answer: LEAF
+  - answer: SAND
